@@ -1,0 +1,26 @@
+{
+  "name": "sea-js-footer",
+  "version": "0.1.0",
+  "description": "This Module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrs-Jekel/sea-js-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "copyright"
+  ],
+  "author": "Sharlane Hess <sharlane.hess87@gmail.com> (https://www.npmjs.com/~mrsjekel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrs-Jekel/sea-js-footer/issues"
+  },
+  "homepage": "https://github.com/Mrs-Jekel/sea-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
